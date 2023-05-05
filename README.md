@@ -19,9 +19,6 @@
    <a href="https://scrybabx.cc/">
     <img alt="ScryBabx" heigt="32" width="32" src="https://cdn.discordapp.com/emojis/1077377363832209459.png" />
   </a>
-  <a href="https://www.instagram.com/lix.eduzada/">
-    <img alt="Instagram" height="32" width="32" src="https://media.discordapp.net/attachments/1098673488111357992/1099040462788120616/instagram.png"/>
-  </a>
   <a href="https://discord.com/invite/scrybabx">
     <img alt="Discord" height="32" width="32" src="https://media.discordapp.net/attachments/1098673488111357992/1099040787859255436/image.png"/>
   </a>
