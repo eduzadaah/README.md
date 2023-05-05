@@ -9,9 +9,6 @@
   <a href="https://nodejs.org/">
         <img alt="NodeJS" height="32" width="32" src="https://res.cloudinary.com/dkfobbwsu/image/upload/v1597534532/node-dot-js.svg"/>
   </a>
-  <a href="https://reactjs.org/">
-        <img alt="ReactJS" height="32" width="32" src="https://res.cloudinary.com/dkfobbwsu/image/upload/v1597534460/react.svg"/>
-  </a>
   <a href="https://mongodb.com/">
     <img alt="MongoDB" height="32" width="32" src="https://www.pngkey.com/png/full/383-3838923_open-mongodb-icon.png"/>
   </a>
