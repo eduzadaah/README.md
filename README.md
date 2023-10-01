@@ -1,6 +1,7 @@
+<div class="container">
 <h1 align="center">🪂 Olá, Eu sou o Eduardo!</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&center=true&size=22&lines=16%20anos;Desenvolvedor;Back-End;Node.JS;"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&center=true&size=22&lines=16%20anos;Desenvolvedor;Back-End;NodeJS;"/>
 </p>
 
 <h3 align="center">Connect with me:</h3>
@@ -33,3 +34,4 @@
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31pwkpbkx3m2fmebnsdzgi6t6vue&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify" />
 </p>
+</div>
